@@ -1,4 +1,4 @@
 Olá mundo
 
-Autor: Ricardo
+Autor: Ricardo Alexandre
 Twitter: @aceofspades47
