@@ -1,4 +1,4 @@
 Olá mundo
 
-Autor: Ricardo
+Autor: Ricardo Bisanha
 Twitter: @aceofspades47
